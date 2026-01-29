@@ -28,8 +28,8 @@
 
 ## :memo: TODO
 
-* [x] Submit a manuscript
 * [x] Create a README file
+* [x] Submit a manuscript
 * [ ] Code Release (Model & Training)
 * [ ] Preprocessed Dataset Release
 * [ ] Release trained weight
