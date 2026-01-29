@@ -28,11 +28,11 @@
 
 ## :memo: TODO
 
-* [x] Code Release (Model & Training)
-* [x] Pre-trained Weights
-* [ ] Support for fMRI Modality
-* [ ] Integration of Genetic Markers (GWAS data)
-
+* [x] Submit a manuscript
+* [x] Create a README file
+* [ ] Code Release (Model & Training)
+* [ ] Preprocessed Dataset Release
+* [ ] Release trained weight
 ## 🔎 Overview
 
 **APHD** (Anatomy Prior-Guided Pathological Decoupling) is a novel multi-modal framework designed to address the persistent challenges of anatomical heterogeneity and semantic ambiguity in fine-grained Alzheimer's Disease (AD) staging.
