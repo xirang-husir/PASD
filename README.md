@@ -1,4 +1,4 @@
-# APHD: Anatomy Prior-Guided Pathological Decoupling
+# APHD: Anatomy Prior-Guided Hierarchical Decoupling Framework for Fine-Grained Alzheimer’s Disease Staging
 
 <div align="center">
 
