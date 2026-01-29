@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-<strong><big>A Unified "Purify-then-Disambiguate" Framework for Fine-Grained Alzheimer's Disease Staging</big></strong>
+<strong><big>We wil release our complete code and preprocessed dataset after official publication！</big></strong>
 </p>
 
 <p align="center">
