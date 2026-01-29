@@ -24,8 +24,7 @@
 
 ## 🔥 News
 
-* **[2026.01.26]** We release the [paper](https://www.google.com/search?q=https://arxiv.org/abs/2601.xxxxx) and the code repository.
-* **[2026.01.25]** APHD achieves SOTA performance on ADNI and NACC datasets for 5-class fine-grained staging.
+* **[2026.01.29]** We have submitted a manuscript to the IEEE Transactions on Medical Imaging (TMI)..
 
 ## :memo: TODO
 
