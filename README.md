@@ -162,30 +162,11 @@ python test.py --config configs/test_adni.yaml --checkpoint checkpoints/best_mod
 
 Comparison with SOTA methods on ADNI and NACC datasets (5-Class Staging):
 
-| Method | Modality | ADNI (F1-Macro) | NACC (F1-Macro) |
-| --- | --- | --- | --- |
-| ResNet-3D | MRI | 0.4651 | 0.5126 |
-| Modal-Flex | MRI+Tab | 0.4666 | 0.4612 |
-| HyperFusion | MRI+Tab | 0.5820 | 0.5070 |
-| **APHD (Ours)** | **MRI+Tab** | **0.6254** | **0.5743** |
-
-> *Red stars in the paper figures denote mean values. Our method demonstrates superior robustness, especially in handling class imbalance.*
 
 ## ✒️ Citation
 
 If you find this project useful for your research, please consider citing:
 
-```bibtex
-@misc{yourname2026aphd,
-      title={APHD: Anatomy Prior-Guided Pathological Decoupling for Fine-Grained Alzheimer's Disease Staging}, 
-      author={Your Name and Co-authors},
-      year={2026},
-      eprint={2601.xxxxx},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
-}
-
-```
 
 ## ❤️ Acknowledgement
 
