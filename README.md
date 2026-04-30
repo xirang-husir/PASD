@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-<strong><big>We will release our complete code upon acceptance of the manuscript！</big></strong>
+<strong><big>We will release our complete code and data preprocessing pipeline upon acceptance of the manuscript！</big></strong>
 </p>
 
 <div align="center">
