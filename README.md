@@ -28,7 +28,7 @@
 * [x] Create a README file
 * [x] Submit a manuscript
 * [ ] Code Release (Model & Training)
-* [ ] Preprocessed Dataset Release
+* [ ] Preprocessed scripts of Dataset Release
 * [ ] Release trained weight
 
 ## 🛠️ Installation
