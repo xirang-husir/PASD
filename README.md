@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-<strong><big>We wil release our complete code after official publication！</big></strong>
+<strong><big>We will release our complete code upon acceptance of the manuscript！</big></strong>
 </p>
 
 <p align="center">
