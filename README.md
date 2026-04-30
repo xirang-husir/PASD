@@ -21,7 +21,7 @@
 ## 🔥 News
 
 * **[2026.01.29]** We have submitted a manuscript to the IEEE Transactions on Medical Imaging (TMI)..
-* **[2026.03.24]** We have submitted an improved version to IEEE Transactions on Image Processing (TIP) after being rejected by TMI...
+* **[2026.03.24]** After receiving a desk rejection from TMI, we have revised the manuscript and submitted an improved version to IEEE Transactions on Image Processing (TIP)....
 
 ## :memo: TODO
 
