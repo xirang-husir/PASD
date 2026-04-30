@@ -34,17 +34,6 @@
 * [ ] Code Release (Model & Training)
 * [ ] Preprocessed Dataset Release
 * [ ] Release trained weight
-## 🔎 Overview
-
-**APHD** (Anatomy Prior-Guided Pathological Decoupling) is a novel multi-modal framework designed to address the persistent challenges of anatomical heterogeneity and semantic ambiguity in fine-grained Alzheimer's Disease (AD) staging.
-
-Operating on a unified **"Purify-then-Disambiguate"** paradigm, our framework bridges the gap between deep representation learning and clinical anatomical knowledge. It effectively handles multi-modal data (MRI + Tabular) and demonstrates exceptional robustness even when PET modalities are missing.
-
-### Key Features
-
-* 🧠 **Anatomy Prior-Guided Pathological Decoupling (APPD)**: A teacher-student module that internalizes spatial priors to filter subject-specific anatomical noise and isolate pathological anomalies with zero inference overhead.
-* 🎯 **Hierarchical Prototype-Guided Semantic Decoupling (HPSD)**: Resolves fuzzy boundaries between subtle disease stages using multi-scale prototype supervision and adaptive similarity-guided contrastive learning.
-* 📊 **Fine-Grained Staging**: Specifically optimized for challenging 5-class classification (CN, I-nMCI, MCI, AD, nAD).
 
 ## 🛠️ Installation
 
