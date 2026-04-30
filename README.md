@@ -44,7 +44,6 @@ Operating on a unified **"Purify-then-Disambiguate"** paradigm, our framework br
 
 * 🧠 **Anatomy Prior-Guided Pathological Decoupling (APPD)**: A teacher-student module that internalizes spatial priors to filter subject-specific anatomical noise and isolate pathological anomalies with zero inference overhead.
 * 🎯 **Hierarchical Prototype-Guided Semantic Decoupling (HPSD)**: Resolves fuzzy boundaries between subtle disease stages using multi-scale prototype supervision and adaptive similarity-guided contrastive learning.
-* 🏥 **Missing Modality Robustness**: Achieves superior performance in bi-modal settings (MRI + Clinical Scores) by mining complementary cues, effectively compensating for unavailable PET data.
 * 📊 **Fine-Grained Staging**: Specifically optimized for challenging 5-class classification (CN, I-nMCI, MCI, AD, nAD).
 
 ## 🛠️ Installation
