@@ -147,15 +147,6 @@ python test.py --config configs/test_adni.yaml --checkpoint checkpoints/best_mod
 
 ```
 
-## 📋 Results
-
-Comparison with SOTA methods on ADNI and NACC datasets (5-Class Staging):
-
-
-## ✒️ Citation
-
-If you find this project useful for your research, please consider citing:
-
 
 ## ❤️ Acknowledgement
 
