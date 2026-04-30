@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-<strong><big>We wil release our complete code and preprocessed dataset after official publication！</big></strong>
+<strong><big>We wil release our complete code after official publication！</big></strong>
 </p>
 
 <p align="center">
