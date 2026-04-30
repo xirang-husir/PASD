@@ -14,10 +14,6 @@
 <strong><big>We will release our complete code upon acceptance of the manuscript！</big></strong>
 </p>
 
-<p align="center">
-<strong><big>If you find our work useful, please consider giving us a star 🌟</big></strong>
-</p>
-
 <div align="center">
 <img src="assets/framework.png" alt="APHD Framework" width="100%">
 </div>
